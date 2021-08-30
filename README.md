@@ -4,4 +4,13 @@ This notebook contains the implementation of an LSTM-RNN(Long Short Term Memory 
 
 This network is based off of Andrej Karpathy's [post on RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) and [implementation in Torch](https://github.com/karpathy/char-rnn). Below is the general architecture of the character-wise RNN.
 
+![alt text](https://github.com/MisterEkole/Text_Recognition_RNN/blob/main/images/charseq.jpeg)
+
+
+## Dependencies
+* Pytorch
+* CUDA
+* Google Colab
+* Python 3.8
+* Numpy
 
